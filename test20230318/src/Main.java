@@ -1,6 +1,9 @@
 public class Main {
     public static void main(String[] args) {
-        int beerNum = 99;
+
+     /*   System.out.println("你好啊aaaaaaaa\r我");
+        System.out.println("你好世界\r我");*/
+/*      int beerNum = 99;
         String word = "bottles";
         while(beerNum > 0){
             if(beerNum == 1){
@@ -16,7 +19,7 @@ public class Main {
             }else{
                 System.out.println("No more bottles of beer on the wall");
             }
-        }
+        }*/
         /*int[] arr = {10, 2};
         char a = 'c';
         String str = "abc";
@@ -30,9 +33,10 @@ public class Main {
     }
 }
 
+/*
 class testclass {
     public void test(){
         System.out.print(a + "\t");
     }
     int a = 1;
-}
+}*/
